@@ -4,4 +4,4 @@
 
 ## Hello
 
-_My name_ is **Mark J Short**
+_My name is_ **Mark J Short**
